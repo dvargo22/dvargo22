@@ -26,4 +26,3 @@
 - 💬 Ask me about ... hunting for edible mushrooms in the PNW.
 - 📫 How to reach me: ... <dvargo22@gmail.com>
 - 🙋🏼‍♂️ Pronouns: ... he/him
-- ⚡ Fun fact: ... Sloths can hold their breath longer than dolphins.
