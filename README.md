@@ -14,8 +14,8 @@
 <br/><br/>
 
 <h2> 📜 Certifications:</h2>
-- <a href="https://dannyvargo.notion.site/Education-and-Certifications-4646004bd96c451b99e464f46e1fc1bd">UX Content Collective UX Writing Fundamentals</a><br/>
-- <a href="https://dannyvargo.notion.site/Education-and-Certifications-4646004bd96c451b99e464f46e1fc1bd">University of Washington Certificate in Professional Technical Writing</a><br/>
+<a href="https://dannyvargo.notion.site/Education-and-Certifications-4646004bd96c451b99e464f46e1fc1bd">UX Content Collective UX Writing Fundamentals</a><br/>
+<a href="https://dannyvargo.notion.site/Education-and-Certifications-4646004bd96c451b99e464f46e1fc1bd">University of Washington Certificate in Professional Technical Writing</a><br/>
 
 <h2> 👀 About me:</h2>
 
