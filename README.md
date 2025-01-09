@@ -1,4 +1,4 @@
-<h1>Hi, I'm Danny! <br/><a href="https://github.com/dvargo22">Tech Writer</a>, <a href="https://www.linkedin.com/in/danny-vargo-/"> UX Writer</a> 
+<h1>Hi, I'm Danny! <br/> Technical Writer, UX Writer, Content Editor
 
 <h2>👨‍💻 Projects:</h2>
 
