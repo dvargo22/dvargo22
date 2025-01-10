@@ -1,4 +1,4 @@
-<h1>Hi, I'm Danny! <br/> Technical Writer, UX Writer, Content Editor
+<h1>Hi, I'm Danny! 
 
 <h2>👨‍💻 Projects:</h2>
 
