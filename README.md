@@ -1,6 +1,6 @@
 ## 👨‍💻 Technical Writing / Documentation, 📲 UX Writing, ✍🏼 Content Writing, and more...
 
-[Visit my GitHub Pages portfolio](dvargo22.github.io)\
+[Visit my GitHub Pages portfolio](dvargo22.github.io)
 
 - 🔭 I’m currently working on ... a global cybersecurity policy document for HP Inc. 
 - 🌱 I’m currently learning ... GitHub. 
