@@ -2,6 +2,8 @@
 
 [Visit my GitHub Pages portfolio](https://dvargo22.github.io)
 
+## The Latest
+
 - 🔭 I’m currently working on ... a global cybersecurity policy document for HP Inc. 
 - 🌱 I’m currently learning ... GitHub. 
 - 👯 I’m looking to collaborate on ... software development projects that need a writer's touch. 
